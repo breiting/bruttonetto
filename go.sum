@@ -1,0 +1,4 @@
+github.com/ryanuber/columnize v2.1.0+incompatible h1:j1Wcmh8OrK4Q7GXY+V7SVSY8nUWQxHW5TkBe7YUl+2s=
+github.com/ryanuber/columnize v2.1.0+incompatible/go.mod h1:sm1tb6uqfes/u+d4ooFouqFdy9/2g9QGwK3SQygK0Ts=
+github.com/thedevsaddam/gojsonq v2.2.2+incompatible h1:IDBN1FNzhv9p83n8JEnuu0rrlXIVFlf8K9lWuXPJHfI=
+github.com/thedevsaddam/gojsonq v2.2.2+incompatible/go.mod h1:RBcQaITThgJAAYKH7FNp2onYodRz8URfsuEGpAch0NA=
